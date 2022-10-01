@@ -4,7 +4,7 @@
 
 </p>
 <p align="center">
-<a href="#"><img title="YOSOKA BOTZ" src="https://img.shields.io/badge/CHIKA BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="YOSOKA BOTZ" src="https://img.shields.io/badge/YOSOKA BOTZ-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/rashidsiregar28/chika-bot"><img title="Author" src="https://img.shields.io/badge/Author-rashidsiregar28-red.svg?style=for-the-badge&logo=github"></a>
@@ -17,17 +17,17 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/rashidsiregar28/chika-bot#requirements">Requirements</a> •
-  <a href="https://github.com/rashidsiregar28/chika-bot#instalasi">Installation</a> •
-  <a href="https://github.com/rashidsiregar28/chika-bot#thanks-to">Thanks to</a> •
-  <a href="https://github.com/rashidsiregar28/chika-bot#Official-Group"> Official Group Bot</a> •
+  <a href="https://github.com/YosokaHosting">Requirements</a> •
+  <a href="https://github.com/YosokaHosting">Installation</a> •
+  <a href="https://github.com/YosokaHosting">Thanks to</a> •
+  <a href="https://chat.whatsapp.com/GST1FDgTAFqJEXZC5BEja1"> Official Group Bot</a> •
   <a href="https://github.com/rashidsiregar28/chika-bot#donate">Donate</a>
 
 <p align='center'>
-   <a href="https://twitter.com/rashidsiregar28"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/twitter.png?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://instagram.com/rashidsiregar28"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://www.facebook.com/rashidsiregar28"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/facebook.png?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://wa.me/628127668234"><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBc_3WgZjWOtqdKZQbdkxUl5A31GZ_YC35zQ&usqp=CAU"></a>
+   <a href="https://twitter.com/yosoka_codex"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/twitter.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://instagram.com/yosoka_hosting"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://www.facebook.com/YosokaHost"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/facebook.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://wa.me/6285891634201"><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBc_3WgZjWOtqdKZQbdkxUl5A31GZ_YC35zQ&usqp=CAU"></a>
 </P>
 </p>
 </div>
